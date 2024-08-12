@@ -9,7 +9,9 @@ Nosso principal objetivo é criar um ambiente colaborativo onde todos possam con
 
 ## Como participar
 Explore os repositórios: Navegue pelos projetos disponíveis, estude os códigos e aprenda com os melhores exemplos.
+
 Contribua: Tem algo a adicionar? Faça um fork, trabalhe na sua versão e submeta um pull request!
+
 Colabore e discuta: Participe das discussões, faça perguntas, sugira melhorias e compartilhe suas ideias.
 
 ## Valeu Professor Alexandre
