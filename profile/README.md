@@ -12,7 +12,7 @@ Explore os repositórios: Navegue pelos projetos disponíveis, estude os código
 Contribua: Tem algo a adicionar? Faça um fork, trabalhe na sua versão e submeta um pull request!
 Colabore e discuta: Participe das discussões, faça perguntas, sugira melhorias e compartilhe suas ideias.
 
-## Vaelu Professor Alexandre
+## Valeu Professor Alexandre
 Um agradecimento especial ao nosso querido Professor Alexandre, que está sempre nos apoiando e incentivando a irmos além. Valeu demais! 🎓👏
 
 <!--
